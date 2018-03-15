@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 """
-欢迎关注'你好Python'微信公众号
-"""
-"""
 获取虎扑九分半全站图片
 https://api.jfbapp.cn/pk/list
 """
